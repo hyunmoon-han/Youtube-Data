@@ -1,0 +1,8 @@
+{
+	"host" : "58.226.35.74",
+	"user" : "root",
+	"password" : "%40%40Ecs2020",
+	"db": "lg_youtube",
+	"schema": "lg_youtube",
+	"port": "3306"
+}
